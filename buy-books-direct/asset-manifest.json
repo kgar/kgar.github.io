@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/buy-books-direct/static/css/main.dd1e9aea.chunk.css",
-    "main.js": "/buy-books-direct/static/js/main.1b671f42.chunk.js",
-    "main.js.map": "/buy-books-direct/static/js/main.1b671f42.chunk.js.map",
-    "runtime-main.js": "/buy-books-direct/static/js/runtime-main.f8f37e6f.js",
-    "runtime-main.js.map": "/buy-books-direct/static/js/runtime-main.f8f37e6f.js.map",
+    "main.css": "/buy-books-direct/static/css/main.6bc2023b.chunk.css",
+    "main.js": "/buy-books-direct/static/js/main.32fc72fe.chunk.js",
+    "main.js.map": "/buy-books-direct/static/js/main.32fc72fe.chunk.js.map",
+    "runtime-main.js": "/buy-books-direct/static/js/runtime-main.4ac85f0f.js",
+    "runtime-main.js.map": "/buy-books-direct/static/js/runtime-main.4ac85f0f.js.map",
     "static/css/2.71a28700.chunk.css": "/buy-books-direct/static/css/2.71a28700.chunk.css",
-    "static/js/2.426740fd.chunk.js": "/buy-books-direct/static/js/2.426740fd.chunk.js",
-    "static/js/2.426740fd.chunk.js.map": "/buy-books-direct/static/js/2.426740fd.chunk.js.map",
-    "static/js/3.5f1e9f83.chunk.js": "/buy-books-direct/static/js/3.5f1e9f83.chunk.js",
-    "static/js/3.5f1e9f83.chunk.js.map": "/buy-books-direct/static/js/3.5f1e9f83.chunk.js.map",
+    "static/js/2.b40d3720.chunk.js": "/buy-books-direct/static/js/2.b40d3720.chunk.js",
+    "static/js/2.b40d3720.chunk.js.map": "/buy-books-direct/static/js/2.b40d3720.chunk.js.map",
+    "static/js/3.6854f0d1.chunk.js": "/buy-books-direct/static/js/3.6854f0d1.chunk.js",
+    "static/js/3.6854f0d1.chunk.js.map": "/buy-books-direct/static/js/3.6854f0d1.chunk.js.map",
     "index.html": "/buy-books-direct/index.html",
     "static/css/2.71a28700.chunk.css.map": "/buy-books-direct/static/css/2.71a28700.chunk.css.map",
-    "static/css/main.dd1e9aea.chunk.css.map": "/buy-books-direct/static/css/main.dd1e9aea.chunk.css.map",
-    "static/js/2.426740fd.chunk.js.LICENSE.txt": "/buy-books-direct/static/js/2.426740fd.chunk.js.LICENSE.txt",
+    "static/css/main.6bc2023b.chunk.css.map": "/buy-books-direct/static/css/main.6bc2023b.chunk.css.map",
+    "static/js/2.b40d3720.chunk.js.LICENSE.txt": "/buy-books-direct/static/js/2.b40d3720.chunk.js.LICENSE.txt",
     "static/media/all.min.css": "/buy-books-direct/static/media/fa-solid-900.efbd5d20.eot",
     "static/media/hero-banner.a216a5ad.jpg": "/buy-books-direct/static/media/hero-banner.a216a5ad.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f8f37e6f.js",
+    "static/js/runtime-main.4ac85f0f.js",
     "static/css/2.71a28700.chunk.css",
-    "static/js/2.426740fd.chunk.js",
-    "static/css/main.dd1e9aea.chunk.css",
-    "static/js/main.1b671f42.chunk.js"
+    "static/js/2.b40d3720.chunk.js",
+    "static/css/main.6bc2023b.chunk.css",
+    "static/js/main.32fc72fe.chunk.js"
   ]
 }
